@@ -1,7 +1,7 @@
 # Projet Python
 
 Projet Python - Dashboard  
-Dataset regroupant tout les projets de la plateforme de financement participatif Kickstarter depuis 2009  
+Dataset regroupant tous les projets de la plateforme de financement participatif Kickstarter depuis 2009  
 378661 projets avec chacun 15 variables tel que le pays, le nom du projet, le montant demandé, le montant récolté, etc.  
 
 
@@ -29,11 +29,15 @@ external_stylesheets = ['https://codepen.io/chriddyp/pen/bWLwgP.css']
 Ouvrir une invite de commande et se placer dans le dossier du projet.
 Executer kickstarter_dash.py à partir de cette invite de commande : python kickstarter_dash.py.  
 Attendre que le fichier csv soit télécharger et que le dashboard soit construit.  
-Quand l'invite de commande affichera  
+Quand l'invite de commande affichera :  
+
+
 * Restarting with stat  
 * Debugger is active!  
 * Debugger PIN: 627-896-911  
 * Running on http://127.0.0.1:8050/ (Press CTRL+C to quit)  
+ 
+
 Le dashboard est prêt. Copier l'addresse IP qui s'affiche et entrer la dans un navigateur.  
 Ne pas fermer l'invite de commande pendant l'utilisation du dashboard
   
