@@ -28,7 +28,7 @@ external_stylesheets = ['https://codepen.io/chriddyp/pen/bWLwgP.css']
 
 Ouvrir une invite de commande et se placer dans le dossier du projet.
 Executer kickstarter_dash.py à partir de cette invite de commande : python kickstarter_dash.py.  
-Attendre que le fichier csv soit télécharger et que le dashboard soit construit.  
+Attendre que le fichier csv soit téléchargé et que le dashboard soit construit.  
 Quand l'invite de commande affichera :  
 
 
@@ -39,7 +39,7 @@ Quand l'invite de commande affichera :
  
 
 Le dashboard est prêt. Copier l'addresse IP qui s'affiche et entrer la dans un navigateur.  
-Ne pas fermer l'invite de commande pendant l'utilisation du dashboard
+Ne pas fermer l'invite de commande pendant l'utilisation du dashboard.
   
 S'il y a besoin de recharger le csv, décommenter la ligne "#ksprojects=pd.read_csv("ks-projects-201801.csv",encoding = 'utf8')".  
 Cela permet de charger directement le csv localement (ce qui va beaucoup plus vite).
