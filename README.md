@@ -1,7 +1,7 @@
 # Projet Python
 
-Projet Python - Dashboard  
-Dataset regroupant tous les projets de la plateforme de financement participatif Kickstarter depuis 2009  
+Projet Python - Dashboard Dash/Plotly  
+Dataset regroupant tous les projets de la plateforme de financement participatif Kickstarter depuis 2009.  
 378661 projets avec chacun 15 variables tel que le pays, le nom du projet, le montant demandé, le montant récolté, etc.  
 
 
